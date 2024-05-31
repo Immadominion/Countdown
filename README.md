@@ -40,12 +40,6 @@ The project idea was inspired by a post from Hacksultan on X (formerly Twitter):
 
 Check out the live demo of the app on Vercel: [FalzTheBahdGuy Countdown App](https://beforedfeast-7ahmfpvzc-nwakanma-dominion-chinonsos-projects.vercel.app)
 
-## Screenshots
-
-![Screenshot 1](img1.png)
-![Screenshot 2](img2.png)
-![Screenshot 3](img3.png)
-
 ## Features
 
 - Countdown timer to the EP launch date.
