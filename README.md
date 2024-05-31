@@ -97,4 +97,4 @@ Special thanks to Hacksultan for the inspiration and to the Flutter community fo
 
 ## Contact
 
-For any inquiries or feedback, please contact [immadominion@gmail.com](mailto:your-email@example.com).
+For any inquiries or feedback, please contact [immadominion@gmail.com](mailto:immadominion@gmail.com).
