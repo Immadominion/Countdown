@@ -1,0 +1,44 @@
+name: falzthebahdguy
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  intl: ^0.19.0
+  particles_flutter: ^0.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/falz.jpg
+
+  fonts:
+    - family: SFP
+      fonts:
+        - asset: fonts/SFPRODISPLAYBLACKITALIC.OTF
+        - asset: fonts/SFPRODISPLAYBOLD.OTF
+        - asset: fonts/SFPRODISPLAYMEDIUM.OTF
+        - asset: fonts/SFPRODISPLAYREGULAR.OTF
+    - family: SFPI
+      fonts:
+        - asset: fonts/SFPRODISPLAYHEAVYITALIC.OTF
+        - asset: fonts/SFPRODISPLAYLIGHTITALIC.OTF
+        - asset: fonts/SFPRODISPLAYSEMIBOLDITALIC.OTF
+        - asset: fonts/SFPRODISPLAYTHINITALIC.OTF
+        - asset: fonts/SFPRODISPLAYULTRALIGHTITALIC.OTF
+          weight: 700
